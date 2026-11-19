@@ -1,2 +1,2 @@
 # git-configuration
-Practice repository for Git configuration task
+Practice repository for Git configuration tasks
